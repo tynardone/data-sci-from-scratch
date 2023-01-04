@@ -1,2 +1,2 @@
-# data_sci_from_scratch
+# Data Science From Scratch
 For working along with the book Data Science From Scratch by Joel Grus
